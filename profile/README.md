@@ -1,9 +1,9 @@
-# Creators.TF Open Source
-> A list of important Creators.TF open source repositories.
+# Creators.TF
+Creators.TF was an attempt by various content creators of the Team Fortress 2 community to get together and ship custom, themed updates to a group of dedicated servers for the community to enjoy. You can check out our archive website to learn more about the project.
 
-## GitHub Repositories
-> For a complete list of repositories, visit the [organisation page.](https://github.com/CreatorsTF)
+The project was shut down on March 2022 due to low interest and zero motivation from the team, financial issues and more less important factors.
 
+## Important Repositories
 - [Archive Website](https://github.com/CreatorsTF/CreatorsTF.github.io)
 - [SourceMod Economy Plugins](https://github.com/CreatorsTF/economy-plugins)
 - [Community Launcher](https://github.com/CreatorsTF/Creators.TF-Community-Launcher)
